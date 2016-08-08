@@ -24,4 +24,8 @@ UML做的不好如果有错误的地方请联系我(0`0)
 
 ##12.多个方法工厂模式
  就是把普通工厂同意创建我们想要的类分成多个方法创建、一个方法对应一个对象的创建
+ ![image](https://github.com/isoot/JavaCodeDesignMode/blob/master/java%2525E8%2525AE%2525BE%2525E8%2525AE%2525A1%2525E6%2525A8%2525A1%2525E5%2525BC%25258F/picture/java2.png)
  
+##13.静态工厂方法模式
+不需要创建工厂类、直接调用里面的静态方法和属性，适用于频繁使用
+![image](https://github.com/isoot/JavaCodeDesignMode/blob/master/java%2525E8%2525AE%2525BE%2525E8%2525AE%2525A1%2525E6%2525A8%2525A1%2525E5%2525BC%25258F/picture/java3.png)
